@@ -1,3 +1,6 @@
+"""CustomBot extracts information from websites and delivers accurate answers to user 
+queries by analyzing and processing the retrieved data, offering real-time, context-specific responses"""
+
 import locale
 def getpreferredencoding(do_setlocale = True):
     return "UTF-8"
